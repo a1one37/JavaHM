@@ -27,7 +27,7 @@ public class averageArray {
 //
 //        }
         if (m == n){
-            System.out.println(isSquare + " это квадратная матрица!");
+            System.out.println(isSquare + " это квадратная матрицп!");
         }else {
             System.out.println(!isSquare + " это не квадратная матрица!");
         }
