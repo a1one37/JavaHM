@@ -9,6 +9,6 @@ class averageArrayTest {
 
     @Test
     void isSquare() {
-        Assertions.assertNull(averageArray.isSquare(3,4));
+        Assertions.assertNull(averageArray.isSquare(3,5));
     }
 }
